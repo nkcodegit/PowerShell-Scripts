@@ -1,0 +1,1 @@
+Get-ADComputer -Filter {OperatingSystem -like "windowsserver*"} -Properties * | sort DNSHostname | select DNSHostName, OperatingSystem | Export-Csv -Path "$home\Desktop\ADServers.csv"
