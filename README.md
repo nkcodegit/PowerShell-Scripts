@@ -1,13 +1,6 @@
 PowerShell-Scripts 🛠️
 A collection of useful PowerShell scripts for automation, system administration, and daily productivity. This repository serves as a centralized hub for scripts designed to simplify tasks on Windows and cross-platform environments.
 
-📖 Table of Contents
-
-About
-Prerequisites
-How to Use
-Security Warning
-License
 
 🧐 About
 This repository, maintained by nkcodegit, contains a variety of stand-alone PowerShell (.ps1) scripts. Whether you are looking to automate folder cleanup, fetch system reports, or manage Active Directory, these scripts are designed to be modular and easy to use.
